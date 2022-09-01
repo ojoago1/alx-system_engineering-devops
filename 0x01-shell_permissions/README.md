@@ -1,2 +1,2 @@
 #!/bin/bash
-a script that changes the group owner to school for the file hello
+a script that prints all the groups the current user is part of
