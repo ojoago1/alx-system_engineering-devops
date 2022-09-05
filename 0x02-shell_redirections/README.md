@@ -1,2 +1,2 @@
 #!/bin/bash
-eplace all characters A and c from input to Z and e respectively
+cript that removes all letters c and C from input
