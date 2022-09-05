@@ -1,2 +1,2 @@
 #!/bin/bash
-script that displays all users and their home directories, sorted by users
+Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
