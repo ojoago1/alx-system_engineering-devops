@@ -1,2 +1,2 @@
 #!/bin/bash
-script that displays the third line of the file iacta
+ shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
