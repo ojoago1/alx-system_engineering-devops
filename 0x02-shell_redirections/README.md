@@ -1,2 +1,2 @@
-@!/bin/bash
-a script that prints “Hello, World”
+#!/bin/bash
+a script that displays a confused smiley
