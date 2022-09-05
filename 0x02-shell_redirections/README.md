@@ -1,2 +1,2 @@
 #!/bin/bash
-cript that deletes all the regular files (not the directories) with a .js extension
+cript that counts the number of directories and sub-directories in the current directory
