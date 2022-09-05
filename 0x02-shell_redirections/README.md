@@ -1,2 +1,2 @@
 #!/bin/bash
-cript that takes a list of words as input and prints only words that appear exactly once
+splay lines containing the pattern “root” from the file /etc/passwd
