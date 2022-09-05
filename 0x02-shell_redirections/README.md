@@ -1,2 +1,2 @@
 #!/bin/bash
-cript that duplicates the last line of the file iacta
+cript that deletes all the regular files (not the directories) with a .js extension
