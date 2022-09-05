@@ -1,2 +1,2 @@
 #!/bin/bash
-cript that counts the number of directories and sub-directories in the current directory
+cript that displays the 10 newest files in the current directory
