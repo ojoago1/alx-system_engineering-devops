@@ -1,2 +1,2 @@
 #!/bin/bash
-script that adds the two numbers stored in the environment variables WATER and STIR and prints the result
+add /action to the PATH. /action should be the last directory the shell looks into when looking for a program
